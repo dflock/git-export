@@ -1,12 +1,8 @@
-
-git-export
-==========
+# git-export
 
 Export the contents of a git index
 
-
-Contributors
-============
+## Contributors
 
 * Daniel Schierbeck
 * Abhishek Mukherjee
